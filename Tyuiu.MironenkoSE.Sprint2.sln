@@ -61,11 +61,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MironenkoSE.Sprint2.T
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task 7", "Task 7", "{6EF4FE92-BBD6-4FAA-BA2D-827708EC5324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MironenkoSE.Sprint2.V4.Test", "Tyuiu.MironenkoSE.Sprint2.V4.Test\Tyuiu.MironenkoSE.Sprint2.V4.Test.csproj", "{49A5AC9D-63DC-487C-BCDE-9D1D0DB111F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MironenkoSE.Sprint2.V4.Task7.Test", "Tyuiu.MironenkoSE.Sprint2.V4.Test\Tyuiu.MironenkoSE.Sprint2.V4.Task7.Test.csproj", "{49A5AC9D-63DC-487C-BCDE-9D1D0DB111F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MironenkoSE.Sprint2.V4.Lib", "Tyuiu.MironenkoSE.Sprint2.V4.Lib\Tyuiu.MironenkoSE.Sprint2.V4.Lib.csproj", "{74290E75-96D9-435B-AF0F-C0F1E6D8F41F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MironenkoSE.Sprint2.Task7.V4.Lib", "Tyuiu.MironenkoSE.Sprint2.V4.Lib\Tyuiu.MironenkoSE.Sprint2.Task7.V4.Lib.csproj", "{74290E75-96D9-435B-AF0F-C0F1E6D8F41F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MironenkoSE.Sprint2.V4", "Tyuiu.MironenkoSE.Sprint2.V4\Tyuiu.MironenkoSE.Sprint2.V4.csproj", "{EA6F9D20-B0DF-4F17-9CF0-2A36B742DA91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MironenkoSE.Sprint2.Task7.V4", "Tyuiu.MironenkoSE.Sprint2.V4\Tyuiu.MironenkoSE.Sprint2.Task7.V4.csproj", "{EA6F9D20-B0DF-4F17-9CF0-2A36B742DA91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

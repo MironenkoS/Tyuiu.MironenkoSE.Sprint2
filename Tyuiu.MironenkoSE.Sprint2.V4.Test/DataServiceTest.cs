@@ -1,5 +1,5 @@
 using Tyuiu.MironenkoSE.Sprint2.V4.Lib;
-namespace Tyuiu.MironenkoSE.Sprint2.V4.Test
+namespace Tyuiu.MironenkoSE.Sprint2.Task7.V4.Test
 {
     [TestClass]
     public class UnitTest1
