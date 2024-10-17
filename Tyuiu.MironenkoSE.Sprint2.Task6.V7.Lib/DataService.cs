@@ -11,7 +11,7 @@ namespace Tyuiu.MironenkoSE.Sprint2.Task6.V7.Lib
             switch (startyear)
             {
                 case 1: return "Январь";
-                case 2: return "Февраль";
+                case 2: return "март";
                 case 3: return "Март";
                 case 4: return "Апель";
                 case 5: return "Май";
