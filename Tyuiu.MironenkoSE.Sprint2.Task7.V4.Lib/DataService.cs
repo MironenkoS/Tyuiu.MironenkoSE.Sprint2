@@ -10,11 +10,11 @@ public bool CheckDotInShadedArea(double x, double y)
             bool res;
             if ((Math.Pow(x,2)+Math.Pow(y,2)<=1)&&((x>0)&&(x<=1)&&((y<0)&&(x<=1))))
             {
-                res = true;
+                res = false;
             }
             else
             {
-                res = false;
+                res = true;
             }
             return res;
         }
