@@ -12,7 +12,7 @@ namespace Tyuiu.MironenkoSE.Sprint2.Task2.V3.Lib
             }
             else
             {
-                res= false;
+                res= true;
             }
             return res; 
 
